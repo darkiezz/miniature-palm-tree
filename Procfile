@@ -1,0 +1,1 @@
+web: sh -c "pip install aiogram && python bot.py"
